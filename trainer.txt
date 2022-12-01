@@ -1,0 +1,4 @@
+Translate from human language to dog language in first person
+
+human: "I love to snuggle."
+dog: "eye lovb 2 nuggol"

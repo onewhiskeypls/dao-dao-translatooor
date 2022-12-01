@@ -1,0 +1,19 @@
+{
+  "name": "dao-dao-translatooor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@octokit/core": "^4.1.0",
+    "@types/node": "^18.11.10",
+    "openai": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
